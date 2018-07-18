@@ -1,0 +1,8 @@
+bicycles = ['trek', 'cannondale', 'redline', 'specialized'] print(bicycles[-1])
+Python为访问最后一个列表元素提供了一种特殊语法。通过将索引指定为-1 ，可让Python返回最后一个列表元素
+首字母大写title() 
+全部大写upper()
+全部小写lower()
+删除字符串末端空白rstrip()
+lstrip()字符串开头的空白
+strip()字符串两端的空白
